@@ -1,5 +1,5 @@
-# DScience_41870
-CODERHOUSE - Curso Data Science - Comisión 41870
+# EDUARDO ETTLIN - Data Science - COMISIÓN: 41870
+CODERHOUSE 
 
 Elección Potenciales DATASET
 
